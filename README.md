@@ -22,7 +22,7 @@ Sklep piłkarski online — korki, piłki, stroje. Pełny frontend z koszykiem, 
 ## Szybki start
 
 ```powershell
-cd C:\Users\kacper\Projects\zielony-ogrodek-shop
+cd C:\Users\kacper\Projects\BoiskoPro
 
 npm install
 cd client && npm install && cd ..
